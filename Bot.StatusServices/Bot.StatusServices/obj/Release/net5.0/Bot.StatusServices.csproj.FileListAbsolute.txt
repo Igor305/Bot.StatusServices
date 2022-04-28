@@ -3,7 +3,6 @@ C:\Users\i.talavyria\Desktop\project\Bots\Bot.StatusServices\Bot.StatusServices\
 C:\Users\i.talavyria\Desktop\project\Bots\Bot.StatusServices\Bot.StatusServices\Bot.StatusServices\bin\Release\net5.0\Bot.StatusServices.runtimeconfig.json
 C:\Users\i.talavyria\Desktop\project\Bots\Bot.StatusServices\Bot.StatusServices\Bot.StatusServices\bin\Release\net5.0\Bot.StatusServices.runtimeconfig.dev.json
 C:\Users\i.talavyria\Desktop\project\Bots\Bot.StatusServices\Bot.StatusServices\Bot.StatusServices\bin\Release\net5.0\Bot.StatusServices.dll
-C:\Users\i.talavyria\Desktop\project\Bots\Bot.StatusServices\Bot.StatusServices\Bot.StatusServices\bin\Release\net5.0\ref\Bot.StatusServices.dll
 C:\Users\i.talavyria\Desktop\project\Bots\Bot.StatusServices\Bot.StatusServices\Bot.StatusServices\bin\Release\net5.0\Bot.StatusServices.pdb
 C:\Users\i.talavyria\Desktop\project\Bots\Bot.StatusServices\Bot.StatusServices\Bot.StatusServices\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
 C:\Users\i.talavyria\Desktop\project\Bots\Bot.StatusServices\Bot.StatusServices\Bot.StatusServices\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
@@ -69,3 +68,5 @@ C:\Users\i.talavyria\Desktop\project\Bots\Bot.StatusServices\Bot.StatusServices\
 C:\Users\i.talavyria\Desktop\project\Bots\Bot.StatusServices\Bot.StatusServices\Bot.StatusServices\obj\Release\net5.0\ref\Bot.StatusServices.dll
 C:\Users\i.talavyria\Desktop\project\Bots\Bot.StatusServices\Bot.StatusServices\Bot.StatusServices\obj\Release\net5.0\Bot.StatusServices.pdb
 C:\Users\i.talavyria\Desktop\project\Bots\Bot.StatusServices\Bot.StatusServices\Bot.StatusServices\obj\Release\net5.0\Bot.StatusServices.genruntimeconfig.cache
+C:\Users\i.talavyria\Desktop\project\Bots\Bot.StatusServices\Bot.StatusServices\Bot.StatusServices\obj\Release\net5.0\Bot.StatusServices.csproj.CopyComplete
+C:\Users\i.talavyria\Desktop\project\Bots\Bot.StatusServices\Bot.StatusServices\Bot.StatusServices\obj\Release\net5.0\refint\Bot.StatusServices.dll

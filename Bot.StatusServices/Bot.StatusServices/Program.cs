@@ -62,13 +62,15 @@ namespace Bot.StatusServices
                         }
                     }
 
-                    if (notification != "")
+                    if (notification == "")
                     {
-                        await botClient.SendTextMessageAsync(
-                            chatId: chatId,
-                            text: notification
-                            );
+                        notification = "Ошибок нет";
                     }
+
+                    await botClient.SendTextMessageAsync(
+                        chatId: chatId,
+                        text: notification
+                    );
                 }
             }
             catch (Exception e)
